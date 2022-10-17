@@ -52,7 +52,7 @@ function getInterviewersForDay(state, day) {
       filteredInterviewers.push(state.interviewers[viewer]);
     }
   })
-  console.log(typeof(filteredInterviewers));
+  
   return filteredInterviewers;
 }
 

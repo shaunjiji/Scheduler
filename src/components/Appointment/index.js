@@ -80,15 +80,11 @@ export default function Appointment(props) {
       student={props.interview.student}
       interviewer={props.interview.interviewer.id}
       interviewers={props.interviewers}
-      onCancel={cancelConfirm} //change to back
+      onCancel={cancelConfirm} 
       onSave={save}
     />}
       {mode === ERROR_SAVE && <Error message={"Could not save appointment"} onClose={back}/>}
       {mode === ERROR_DELETE && <Error message={"Could not delete appointment"} onClose={back}/>}
-
-
-
-
     </article>
   );
 }
