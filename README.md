@@ -9,7 +9,7 @@ The Interview Scheduler is a single page, REACT web application, with a function
 !["Interview Scheduler Homepage"](https://github.com/shaunjiji/Scheduler/blob/master/docs/home%20page.png?raw=true)
 
 ## Creating Appointments
-["Creating Appointments"](https://github.com/shaunjiji/Scheduler/blob/master/docs/Create%20Appointments.png?raw=true)
+!["Creating Appointments"](https://github.com/shaunjiji/Scheduler/blob/master/docs/Create%20Appointments.png?raw=true)
 
 ## Deleting Appointments
 !["Deleting Appointments"](https://github.com/shaunjiji/Scheduler/blob/master/docs/delete%20appointment.png?raw=true)
