@@ -6,13 +6,13 @@
 The Interview Scheduler is a single page, REACT web application, with a functioning front and back end. It allows you to book appointments, cancel appointments, and select interviewers for the appointment.
 
 ## Homepage
-(https://github.com/shaunjiji/Scheduler/blob/master/docs/home%20page.png?raw=true)
+!(https://github.com/shaunjiji/Scheduler/blob/master/docs/home%20page.png?raw=true)
 
 ## Creating Appointments
-(https://github.com/shaunjiji/Scheduler/blob/master/docs/Create%20Appointments.png?raw=true)
+!(https://github.com/shaunjiji/Scheduler/blob/master/docs/Create%20Appointments.png?raw=true)
 
 ## Deleting Appointments
-(https://github.com/shaunjiji/Scheduler/blob/master/docs/delete%20appointment.png?raw=true)
+!(https://github.com/shaunjiji/Scheduler/blob/master/docs/delete%20appointment.png?raw=true)
 
 
 ## Setup
