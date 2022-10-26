@@ -1,3 +1,5 @@
+//Go through a state array with a days object and an appointments object
+//Match the appointments given in the days object to those in the appointments object
 function getAppointmentsForDay(state, day) {
   const appointmentFilter = [];
 
@@ -16,6 +18,7 @@ function getAppointmentsForDay(state, day) {
   return appointmentFilter;
 }
 
+// Add the info of the interviewer for an existing interview
 function getInterview(state, interview) {
   if (!interview) {
     return null;
@@ -31,6 +34,7 @@ function getInterview(state, interview) {
   return obj;
 }
 
+// Return the interviewers of a specific day
 function getInterviewersForDay(state, day) {
   const filteredInterviewers = [];
 
